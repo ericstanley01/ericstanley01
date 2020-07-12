@@ -1,7 +1,17 @@
-### Hi there 👋
+<!-- # Hi, I am Eric 👋 -->
+
+<img src="https://github.com/ericstanley01/ericstanley01/blob/master/banner.jpg" alt="Eric Stanley profile">
+
+- 🔭 Quality assurance engineer in a private company
+- 🌱 Learning latest dev and test trends and put'em to practice
+- 👯 Happy to collaborate on any open source projects
+## Find me around the web 🌎
+  - Personal Blog - <a href="https://www.stanleyeric.com">stanleyeric.com</a> 📹
+  - Useful Code snippets - <a href="https://codepen.io/eric-stanley01"> Codepen</a> 🏓
+  - Professional Profile - <a href="https://www.linkedin.com/in/eric-stanley-6453552a/">LinkedIn</a> 💼
 
 <!--
-**ericstanley01/ericstanley01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eric-stanley/eric-stanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
